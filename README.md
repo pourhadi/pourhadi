@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Daniel Pourhadi
+
+### Some things you should know:
+* Throughout high school and early college I contributed frequently to Macworld and MacAddict magazines and tech blogs like Engadget
+* The first mobile app I built was in middle school for the Palm III
+* I was sitting in the 7th row when Steve Jobs introduced the iPhone for the first time at Macworld San Francisco
+* I am an entirely self-taught programmer, having gone to school (briefly) for political science (until building apps took over my life)
 
 <!--
 **pourhadi/pourhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
