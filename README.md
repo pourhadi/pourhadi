@@ -6,6 +6,7 @@
 * I was sitting in the 7th row when Steve Jobs introduced the iPhone for the first time at Macworld San Francisco
 * I am an entirely self-taught programmer, having gone to school (briefly) for political science (until building apps took over my life)
 
+I've pinned some of the good stuff. Feel free to look around and [Contact me](mailto:dan@pourhadi.com) with any questions.
 <!--
 **pourhadi/pourhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
